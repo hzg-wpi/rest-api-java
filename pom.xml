@@ -11,9 +11,9 @@
     </modules>
 
     <scm>
-        <connection>scm:git:git@github.com:tango-controls/rest-api.git</connection>
-        <developerConnection>scm:git:git@github.com:tango-controls/rest-api.git</developerConnection>
-        <url>https://github.com/tango-controls/rest-api</url>
+        <connection>scm:git:git@github.com:tango-controls/rest-api-java.git</connection>
+        <developerConnection>scm:git:git@github.com:tango-controls/rest-api-java.git</developerConnection>
+        <url>https://github.com/tango-controls/rest-api-java</url>
         <tag>HEAD</tag>
     </scm>
 
