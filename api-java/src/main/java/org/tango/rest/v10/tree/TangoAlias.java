@@ -1,4 +1,4 @@
-package org.tango.rest.rc5.tree;
+package org.tango.rest.v10.tree;
 
 /**
  * @author Igor Khokhriakov <igor.khokhriakov@hzg.de>

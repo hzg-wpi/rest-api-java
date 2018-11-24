@@ -1,4 +1,4 @@
-package org.tango.rest.rc5.entities;
+package org.tango.rest.v10.entities;
 
 import fr.esrf.Tango.DevError;
 import org.codehaus.jackson.map.annotate.JsonSerialize;

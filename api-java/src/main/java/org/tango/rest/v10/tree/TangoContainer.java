@@ -1,4 +1,4 @@
-package org.tango.rest.rc5.tree;
+package org.tango.rest.v10.tree;
 
 import org.codehaus.jackson.annotate.JsonSubTypes;
 

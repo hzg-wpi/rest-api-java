@@ -1,4 +1,4 @@
-package org.tango.rest.rc5.entities.pipe;
+package org.tango.rest.v10.entities.pipe;
 
 import org.codehaus.jackson.annotate.JsonCreator;
 
