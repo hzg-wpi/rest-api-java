@@ -68,7 +68,7 @@
         <dependency>
             <groupId>org.tango-controls</groupId>
             <artifactId>JTangoCommons</artifactId>
-            <version>9.5.10.hzg</version>
+            <version>9.5.10-hzg.11</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
