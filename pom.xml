@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.hereon.tango</groupId>
     <artifactId>rest-api-bom</artifactId>
-    <version>3.1-SNAPSHOT</version>
+    <version>3.1</version>
     <packaging>pom</packaging>
 
     <modules>
@@ -14,7 +14,7 @@
         <connection>scm:git:git@github.com:hzg-wpi/rest-api-java.git</connection>
         <developerConnection>scm:git:git@github.com:hzg-wpi/rest-api-java.git</developerConnection>
         <url>https://github.com/hzg-wpi/rest-api-java</url>
-        <tag>HEAD</tag>
+        <tag>rest-api-java-3.1</tag>
     </scm>
 
     <distributionManagement>
