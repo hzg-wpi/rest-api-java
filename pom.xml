@@ -103,7 +103,7 @@
                 <version>${slf4j.version}</version>
             </dependency>
             <dependency>
-                <groupId>org.tango-controls</groupId>
+                <groupId>de.hereon.tango</groupId>
                 <artifactId>rest-api</artifactId>
                 <version>${project.version}</version>
             </dependency>
