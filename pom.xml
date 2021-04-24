@@ -118,7 +118,7 @@
                     <artifactId>maven-source-plugin</artifactId>
                     <executions>
                         <execution>
-                            <id>release</id>
+                            <id>attach-sources</id>
                             <goals>
                                 <goal>jar</goal>
                             </goals>
@@ -152,7 +152,7 @@
                 <configuration>
                     <tagNameFormat>rest-api-java-@{project.version}</tagNameFormat>
                     <localCheckout>true</localCheckout>
-                    <useReleaseProfile>true</useReleaseProfile>
+                    <useReleaseProfile>false</useReleaseProfile>
                 </configuration>
             </plugin>
             <plugin>
