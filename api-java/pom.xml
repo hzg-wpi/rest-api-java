@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.tango-controls</groupId>
+        <groupId>de.hereon.tango</groupId>
         <artifactId>rest-api-bom</artifactId>
         <version>2.3-SNAPSHOT</version>
     </parent>
@@ -17,8 +17,8 @@
 
     <distributionManagement>
         <repository>
-            <id>bintray-tango-controls</id>
-            <url>https://api.bintray.com/maven/tango-controls/rest/rest-api/;publish=1</url>
+            <id>github-hzg</id>
+            <url>https://maven.pkg.github.com/hzg-wpi/rest-api-java</url>
         </repository>
     </distributionManagement>
 
@@ -66,9 +66,9 @@
             <artifactId>slf4j-api</artifactId>
         </dependency>
         <dependency>
-            <groupId>org.tango-controls</groupId>
-            <artifactId>JTangoCommons</artifactId>
-            <version>9.5.10-hzg.11</version>
+            <groupId>de.hereon.tango.lang</groupId>
+            <artifactId>commons</artifactId>
+            <version>1.0.1</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
